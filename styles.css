@@ -30,6 +30,7 @@ body {
 
 h1 {
     margin: 32px;
+    color: blue;
 }
 
 #compliment-container {
@@ -57,4 +58,8 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.colors {
+    background-color: red;
 }
